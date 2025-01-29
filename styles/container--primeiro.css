@@ -16,7 +16,7 @@
 
 .container__primeiro--texto h1 {
     font-family: Krona One;
-    font-size: 3.1em;
+    font-size: 3.1rem;
     font-style: normal;
     font-weight: 400;
     line-height: 120%;
@@ -65,7 +65,7 @@
     }
 
     .container__primeiro--texto-botao {
-        width: 28.0rem;
+        width: 28rem;
     }
 
     .container__primeiro--imagem {
@@ -81,7 +81,7 @@
 
     .container__primeiro {
         flex-direction: row;
-        padding: 0 22.0rem 8rem 22rem;
+        padding: 0 22rem 8rem 22rem;
     }
 
     .container__primeiro--imagem {
