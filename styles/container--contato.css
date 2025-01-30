@@ -80,7 +80,7 @@
 .container__contato .container__contato--form .container__contato--inputs .container__contato--inputs--div {
     display: flex;
     flex-direction: column;
-    row-gap: 3.0rem;
+    row-gap: 3.5rem;
     padding: 2rem;
 }
 
